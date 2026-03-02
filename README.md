@@ -1,2 +1,4 @@
 # nogga123
-uprajnenie po usp
+uprajnenie po usp noggar
+
+#kod
