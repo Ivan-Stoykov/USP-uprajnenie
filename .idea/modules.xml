@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nogga123.iml" filepath="$PROJECT_DIR$/.idea/nogga123.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pruchka1/pruchka1.iml" filepath="$PROJECT_DIR$/pruchka1/pruchka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nga.iml" filepath="$PROJECT_DIR$/.idea/nga.iml" />
     </modules>
   </component>
 </project>
